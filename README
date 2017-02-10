@@ -1,4 +1,6 @@
 This daemon was inspired by
+  - Sam Nazarko
+    <email@samnazarko.co.uk>
   - Christoph Bartelmus's lircd daemon
     <http:http://www.lirc.org/>,
   - Guus Sliepen's inputlircd daemon
